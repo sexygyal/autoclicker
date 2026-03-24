@@ -1,0 +1,2 @@
+C:\Users\Tanner\Desktop\AutoClicker\v1.1.0-stable\out-safe\AutoClickerLite.pdb
+C:\Users\Tanner\Desktop\AutoClicker\v1.1.0-stable\out-safe\AutoClickerLite.exe
