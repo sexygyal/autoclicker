@@ -20,7 +20,7 @@
 
 
 
-##### Windows auto-clicker with a compact UI: timing, jitter, global hotkeys (F6 start, F7 stop, Ctrl+Shift+E exit), and it won’t click while your cursor is over the app. **v1.1.0** ships as a small native Windows build (no Python on your machine).
+##### Windows auto-clicker with a compact UI: timing, jitter, global hotkeys (F6 start, F7 stop, Ctrl+Shift+E exit)
 
 ---
 
